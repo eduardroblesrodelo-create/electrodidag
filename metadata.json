@@ -1,0 +1,6 @@
+{
+  "name": "ELECTRODIAG - Simulación y Diagnóstico de Redes Eléctricas",
+  "description": "Software profesional para el modelado, simulación física y matemática, detección y localización de fallas en redes eléctricas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
